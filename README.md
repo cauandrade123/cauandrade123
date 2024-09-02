@@ -1,5 +1,3 @@
-
-- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Adoro resolver problemas de código tarde da noite, é quando as melhores ideias aparecem!
 
 <h1 align="left">Hey,  What's up?</h1>
@@ -44,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cauandrade123/cauandrade123/output/snake.svg" alt="Snake animation" />
+
 
 ###
