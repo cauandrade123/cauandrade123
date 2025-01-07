@@ -63,11 +63,11 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   
-  <a href="https://discord.com/users/1201989323793367071" target="_blank">Entre em contato comigo no Discord
+  <a href="https://discord.com/users/1201989323793367071" target="blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 
-  <a href="mailto:cauaandradeconde@gmail.com">Entre em contato comigo
+  <a target="blank" href="mailto:cauaandradeconde@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   
