@@ -1,80 +1,78 @@
-- ⚡ Fun fact: Adoro resolver problemas de código tarde da noite, é quando as melhores ideias aparecem!
+<h1 align="center">👋 Olá, eu sou o Cauã Andrade Condé</h1>
 
-<h1 align="left">Hey,  What's up?</h1>
+<p align="center">
+💻 Desenvolvedor Back-end • ⚛️ React • ☁️ Estudando Cloud (AWS) • 🚀 Em constante evolução
+</p>
 
-###
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-<p align="left">Meu nome é Cauã Andrade e seja bem-vindo!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Solving bugs daily<br>👨‍💻  i love coding<br>⚒  i love create</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
- 
-
-
-###
 </div>
 
-###
+---
 
+## 🚀 Sobre mim
 
+- 🎓 Técnico em Informática
+- 👨‍💻 Desenvolvedor com foco em **Back-end**
+- ⚙️ Experiência com **Node.js, Express e APIs REST**
+- 🧱 Uso de **arquitetura em camadas (Layered Architecture)**
+- ⚛️ Desenvolvimento de interfaces com **React**
+- ☁️ Estudando **AWS (Cloud Practitioner)**
+- 🎯 Buscando oportunidades como **Jovem Aprendiz, Estágio ou Dev Júnior**
 
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
+- **Back-end:** Node.js, Express
+- **Front-end:** React
+- **Banco de Dados:** MySQL, SQL
+- **Cloud:** AWS (EC2, ECS, RDS, IAM – em estudo)
+- **DevOps:** Docker
+- **Outros:** JWT, Nginx, APIs REST
 
-<h2 align="left">Speak to me!</h2>
+---
 
-###
+## 📌 Projetos em Destaque
 
-<br clear="both">
+- 🔹 **Sistema de Clínica Médica**
+  - Teleconsulta, dashboard financeiro, autenticação JWT, RBAC
+- 🔹 **API Gateway Escalável**
+  - Rate limit, balanceamento de carga e autenticação
+- 🔹 **Automação de Dados com Excel**
+  - Integração com sistemas e geração de relatórios
+- 🔹 **E-commerce**
+  - Persistência em MySQL e exportação de dados para análise
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  
-  <a href="https://discord.com/users/1201989323793367071" target="blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+---
 
-  <a target="blank" href="mailto:cauaandradeconde@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
 </div>
 
-###
-###
+---
 
+## 📫 Contato
 
-###
+- 📧 Email: **cauaandradeconde@gmail.com**
+- 💼 LinkedIn: *(adicione o link aqui)*
+- 🌐 Portfólio: *(opcional)*
+
+---
+
+<p align="center">
+💡 “Evoluindo um commit por vez.”
+</p>
