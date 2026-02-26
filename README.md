@@ -19,19 +19,19 @@ Back-End Developer • Node.js • Cloud • Databases
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="85"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="88"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="85"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="88"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="85"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="88"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="85"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="88"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="85"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="88"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="85"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="88"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" height="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="88"/>
 
 </div>
 
@@ -39,9 +39,9 @@ Back-End Developer • Node.js • Cloud • Databases
 
 # Sobre
 
-Desenvolvedor Back-End focado em construção de APIs escaláveis, arquitetura limpa e sistemas profissionais.
+Desenvolvedor Back-End focado na construção de APIs escaláveis, arquitetura limpa e sistemas profissionais.
 
-Principais competências:
+Especializado em:
 
 • Node.js  
 • Arquitetura em Camadas  
@@ -49,6 +49,21 @@ Principais competências:
 • Docker  
 • AWS  
 • APIs REST  
+
+---
+
+# Arquitetura
+
+
+
+
+Princípios:
+
+• Clean Code  
+• SOLID  
+• Separation of Concerns  
+• Escalabilidade  
+• Segurança  
 
 ---
 
@@ -80,4 +95,18 @@ Principais competências:
 
 ---
 
-# Arquitetura
+# Tecnologias
+
+<div align="center">
+
+Node.js • JavaScript • React • MySQL • PostgreSQL • Docker • AWS
+
+</div>
+
+---
+
+<div align="center">
+
+Building scalable, maintainable and professional software.
+
+</div>
