@@ -16,13 +16,9 @@ soluções robustas seguindo os melhores padrões da indústria.
 <br/>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="JS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="Node" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" alt="Postgres" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" height="80" fill="#FF9900" alt="AWS" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,postgres,react,docker,aws&theme=dark" height="120" alt="Minhas Stacks" />
+  </a>
 </p>
 
 <br/>
@@ -35,9 +31,9 @@ soluções robustas seguindo os melhores padrões da indústria.
 ## 📊 Estatísticas do GitHub
 <br/>
 
-<img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cauandrade123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cauandrade123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 <br/>
-<img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauandrade123&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Linguagens" />
+<img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauandrade123&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
 
 ---
 
