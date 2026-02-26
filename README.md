@@ -2,14 +2,15 @@
 
 # Cauã Andrade Condé
 
-Back-End Developer • Node.js • Cloud • Databases
-
-Construindo sistemas escaláveis e APIs robustas.
+<sub>Back-End Developer • Node.js • Cloud • Databases</sub>
 
 <br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Back-End+Developer;Node.js+Specialist;Cloud+Focused;Building+Scalable+Systems"/>
+
+<br><br>
+
 [![Email](https://img.shields.io/badge/Email-cauaandradeconde@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauaandradeconde@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-cauandrade123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauandrade123)
 
 </div>
@@ -20,13 +21,19 @@ Construindo sistemas escaláveis e APIs robustas.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js" height="70"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="70"/>
-<img src="https://skillicons.dev/icons?i=react" height="70"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="70"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="70"/>
-<img src="https://skillicons.dev/icons?i=docker" height="70"/>
-<img src="https://skillicons.dev/icons?i=aws" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="95"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="95"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="95"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="95"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="95"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="95"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=aws" height="95"/>
 
 </div>
 
@@ -34,16 +41,16 @@ Construindo sistemas escaláveis e APIs robustas.
 
 # Sobre
 
-Desenvolvedor Back-End focado em arquitetura profissional, APIs escaláveis e sistemas robustos.
+Desenvolvedor Back-End com foco em arquitetura profissional e sistemas escaláveis.
 
 Especializado em:
 
-- Node.js
-- Arquitetura em Camadas
-- SQL
-- Docker
-- AWS
-- Sistemas escaláveis
+• Desenvolvimento de APIs REST  
+• Arquitetura em Camadas  
+• Integração com bancos SQL  
+• Containerização com Docker  
+• Deploy em Cloud AWS  
+• Sistemas seguros e escaláveis  
 
 ---
 
