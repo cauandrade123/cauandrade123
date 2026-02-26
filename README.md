@@ -1,42 +1,85 @@
-<h1 align="center">Hey 👋What's Up?</h1>
 
-###
+Princípios utilizados:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-</div>
+- Clean Code  
+- SOLID  
+- Separation of Concerns  
+- Escalabilidade  
+- Manutenibilidade  
+- Segurança  
 
-###
+---
+
+# Estatísticas
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+
 </div>
 
-###
+<div align="center">
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa"/>
+
 </div>
 
-###
+---
+
+# Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# Tecnologias
+
+| Categoria | Tecnologias |
+|---|---|
+Backend | Node.js, JavaScript |
+Frontend | React |
+Database | MySQL, PostgreSQL |
+Cloud | AWS |
+DevOps | Docker, Git |
+
+---
+
+# Projetos Relevantes
+
+Sistema de Clínica Médica
+
+- Arquitetura em camadas  
+- Multiusuário  
+- RBAC  
+- JWT Authentication  
+- Dashboard financeiro  
+- Integração com banco de dados  
+
+Sistema de Automação de Dados
+
+- Exportação Excel  
+- Backend escalável  
+- Manipulação de dados  
+
+---
+
+# Foco Atual
+
+- Arquitetura Back-End  
+- Cloud Computing  
+- Sistemas escaláveis  
+- Engenharia de software profissional  
+
+---
+
+<div align="center">
+
+Construindo software com arquitetura, escalabilidade e qualidade.
+
+</div>
