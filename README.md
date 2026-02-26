@@ -1,112 +1,57 @@
-<div align="center">
-
-# Cauã Andrade Condé
-
-Back-End Developer • Node.js • Cloud • Databases
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Back-End+Developer;Node.js+Specialist;Cloud+Focused;Building+Scalable+Systems"/>
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-cauaandradeconde@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauaandradeconde@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-cauandrade123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauandrade123)
-
-</div>
+# ⚡ Cauã Andrade Condé
+### Back-End Developer • Node.js • Cloud • Databases
 
 ---
 
-# Stack Principal
+## 🚀 Sobre mim
+Desenvolvedor Back-End focado na construção de **APIs escaláveis**, **arquitetura limpa** e sistemas profissionais. Minha prioridade é desenvolver soluções robustas seguindo os melhores padrões da indústria.
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="88"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="88"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="88"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="88"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="88"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="88"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="88"/>
-
-</div>
+* 🛠️ **Especializado em:** Node.js, Cloud (AWS) e Modelagem de Dados.
+* 🏗️ **Arquitetura:** Clean Architecture e SOLID.
+* 🔒 **Foco:** Performance, Segurança e Escalabilidade.
 
 ---
 
-# Sobre
+## 🛠️ Tecnologias & Stacks
+Conforme a imagem do meu ecossistema principal:
 
-Desenvolvedor Back-End focado na construção de APIs escaláveis, arquitetura limpa e sistemas profissionais.
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
-Especializado em:
-
-• Node.js  
-• Arquitetura em Camadas  
-• MySQL e PostgreSQL  
-• Docker  
-• AWS  
-• APIs REST  
-
----
-
-# Arquitetura
-
-
-
-
-Princípios:
-
-• Clean Code  
-• SOLID  
-• Separation of Concerns  
-• Escalabilidade  
-• Segurança  
+### 🧠 Princípios de Engenharia
+- **Clean Code & SOLID** (Código legível e fácil de manter)
+- **Separation of Concerns** (Responsabilidades bem divididas)
+- **Escalabilidade & Segurança** (Pronto para alta demanda)
+- **Arquitetura em Camadas** (APIs REST profissionais)
 
 ---
 
-# Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauandrade123&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cauandrade123&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauandrade123&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauandrade123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauandrade123&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
 ---
 
-# Commits e Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cauandrade123&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=C9D1D9"/>
-
-</div>
-
----
-
-# Tecnologias
-
-<div align="center">
-
-Node.js • JavaScript • React • MySQL • PostgreSQL • Docker • AWS
-
-</div>
+## 📫 Vamos nos conectar?
+<p align="left">
+  <a href="mailto:cauaandradeconde@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-
-<div align="center">
-
-Building scalable, maintainable and professional software.
-
-</div>
+<p align="center">
+  <sub>Eficiência, Escala e Código Limpo.</sub>
+</p>
