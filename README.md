@@ -1,85 +1,50 @@
-
-Princípios utilizados:
-
-- Clean Code  
-- SOLID  
-- Separation of Concerns  
-- Escalabilidade  
-- Manutenibilidade  
-- Segurança  
-
----
-
-# Estatísticas
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+# Cauã Andrade Condé
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+Back-End Developer • Node.js • Cloud • Databases
 
-</div>
+Construindo sistemas escaláveis e APIs robustas.
 
-<div align="center">
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa"/>
+[![Email](https://img.shields.io/badge/Email-cauaandradeconde@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauaandradeconde@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-cauandrade123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauandrade123)
 
 </div>
 
 ---
 
-# Atividade
+# Stack Principal
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=js" height="70"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="70"/>
+<img src="https://skillicons.dev/icons?i=react" height="70"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="70"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="70"/>
+<img src="https://skillicons.dev/icons?i=docker" height="70"/>
+<img src="https://skillicons.dev/icons?i=aws" height="70"/>
 
 </div>
 
 ---
 
-# Tecnologias
+# Sobre
 
-| Categoria | Tecnologias |
-|---|---|
-Backend | Node.js, JavaScript |
-Frontend | React |
-Database | MySQL, PostgreSQL |
-Cloud | AWS |
-DevOps | Docker, Git |
+Desenvolvedor Back-End focado em arquitetura profissional, APIs escaláveis e sistemas robustos.
 
----
+Especializado em:
 
-# Projetos Relevantes
-
-Sistema de Clínica Médica
-
-- Arquitetura em camadas  
-- Multiusuário  
-- RBAC  
-- JWT Authentication  
-- Dashboard financeiro  
-- Integração com banco de dados  
-
-Sistema de Automação de Dados
-
-- Exportação Excel  
-- Backend escalável  
-- Manipulação de dados  
+- Node.js
+- Arquitetura em Camadas
+- SQL
+- Docker
+- AWS
+- Sistemas escaláveis
 
 ---
 
-# Foco Atual
-
-- Arquitetura Back-End  
-- Cloud Computing  
-- Sistemas escaláveis  
-- Engenharia de software profissional  
-
----
-
-<div align="center">
-
-Construindo software com arquitetura, escalabilidade e qualidade.
-
-</div>
+# Arquitetura
