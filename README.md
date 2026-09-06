@@ -2,6 +2,8 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Cauã Andrade Condé — Backend Developer" />
 
+<img src="./assets/impact-strip.svg" width="100%" alt="317 commits, 20 repositórios, 11 pull requests mergeados, 6 stars" />
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=cauandrade123&color=0D1117&style=flat-square&label=Visualizações" alt="Profile views" />
@@ -38,7 +40,7 @@ Gosto de sistemas que não quebram sob uso real: validação de entrada, tratame
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,postgres,docker,azure,git,github,postman&theme=dark" height="80" alt="Stack principal" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,postgres,docker,azure,aws,git,github,postman&theme=dark" height="80" alt="Stack principal" />
   </a>
 </p>
 
@@ -49,7 +51,8 @@ Gosto de sistemas que não quebram sob uso real: validação de entrada, tratame
   <img src="https://img.shields.io/badge/-Windows%20Server-0D1117?style=flat-square&logo=windows&logoColor=3B82F6" alt="Windows Server" />
 </p>
 
-**Estudando / explorando atualmente:** TypeScript, React, AWS
+**Cloud:** Azure (deploy real via App Service, certificação AI-900) · AWS (fundamentos, em estudo)
+**Estudando / explorando atualmente:** TypeScript, React
 
 ### Princípios de engenharia
 
