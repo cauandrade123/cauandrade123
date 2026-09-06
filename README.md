@@ -66,7 +66,7 @@ até o deploy.
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+<a href="https://www.linkedin.com/in/cauaandradedev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
 </a>
 &nbsp;
