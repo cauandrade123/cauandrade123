@@ -12,7 +12,7 @@
   <line x1="30" y1="99" x2="465" y2="99" stroke="#1C2530" stroke-width="1" />
   
   <text x="30" y="121" font-family="RobotoEmbed" font-weight="400" font-size="14" letter-spacing="1.2" fill="#6B7280">TOTAL DE COMMITS</text>
-  <text x="465" y="121" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="26" fill="#3B82F6">205</text>
+  <text x="465" y="121" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="26" fill="#3B82F6">313</text>
   <line x1="30" y1="136" x2="465" y2="136" stroke="#1C2530" stroke-width="1" />
   
   <text x="30" y="158" font-family="RobotoEmbed" font-weight="400" font-size="14" letter-spacing="1.2" fill="#6B7280">PULL REQUESTS MERGEADOS</text>
