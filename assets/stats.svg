@@ -8,15 +8,15 @@
   <text x="30" y="40" font-family="RobotoEmbed" font-weight="700" font-size="18" letter-spacing="1" fill="#F5F7FA">ESTATÍSTICAS DO GITHUB</text>
   
   <text x="30" y="84" font-family="RobotoEmbed" font-weight="400" font-size="14" letter-spacing="1.2" fill="#6B7280">TOTAL DE REPOSITÓRIOS</text>
-  <text x="465" y="84" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="26" fill="#3B82F6">20</text>
+  <text x="465" y="84" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="26" fill="#3B82F6">15</text>
   <line x1="30" y1="99" x2="465" y2="99" stroke="#1C2530" stroke-width="1" />
   
   <text x="30" y="121" font-family="RobotoEmbed" font-weight="400" font-size="14" letter-spacing="1.2" fill="#6B7280">TOTAL DE COMMITS</text>
-  <text x="465" y="121" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="26" fill="#3B82F6">317</text>
+  <text x="465" y="121" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="26" fill="#3B82F6">205</text>
   <line x1="30" y1="136" x2="465" y2="136" stroke="#1C2530" stroke-width="1" />
   
   <text x="30" y="158" font-family="RobotoEmbed" font-weight="400" font-size="14" letter-spacing="1.2" fill="#6B7280">PULL REQUESTS MERGEADOS</text>
-  <text x="465" y="158" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="26" fill="#3B82F6">11</text>
+  <text x="465" y="158" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="26" fill="#3B82F6">3</text>
   <line x1="30" y1="173" x2="465" y2="173" stroke="#1C2530" stroke-width="1" />
   
   <text x="30" y="195" font-family="RobotoEmbed" font-weight="400" font-size="14" letter-spacing="1.2" fill="#6B7280">TOTAL DE STARS</text>
