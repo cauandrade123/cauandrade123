@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="./assets/impact-strip.svg" width="100%" alt="205 commits, 15 repositórios, 3 pull requests mergeados, 6 stars" />
+<img src="./assets/impact-strip.svg" width="100%" alt="313 commits, 15 repositórios, 3 pull requests mergeados, 6 stars" />
 
 <br/>
 
@@ -64,6 +64,8 @@ Validação de entrada · Tratamento de erro consistente · Segurança em autent
 
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/)
 
+<a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/" target="_blank"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="110" alt="Selo Microsoft Certified: Fundamentals" /></a>
+
 ## Projetos em destaque
 
 | Projeto | Descrição | Stack |
@@ -85,7 +87,7 @@ Validação de entrada · Tratamento de erro consistente · Segurança em autent
 
 <img src="https://streak-stats.demolab.com/?user=cauandrade123&background=0D1117&border=1C2530&stroke=1C2530&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=6B7280&hide_border=false" alt="GitHub Streak" />
 
-<sub>Contagens de repositórios públicos (commits na branch padrão, incluindo projetos em equipe). Atividade em repositórios privados não entra nos números.</sub>
+<sub>Total de commits: contagem de contribuições de 2026 do perfil do GitHub, incluindo projetos em equipe. Demais números: repositórios públicos.</sub>
 
 ## About me (English)
 
