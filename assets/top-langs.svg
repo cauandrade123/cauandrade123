@@ -8,24 +8,24 @@
   <text x="30" y="40" font-family="RobotoEmbed" font-weight="700" font-size="18" letter-spacing="1" fill="#F5F7FA">LINGUAGENS MAIS UTILIZADAS</text>
   
   <text x="30" y="78" font-family="RobotoEmbed" font-weight="400" font-size="14" fill="#C9D1D9">TypeScript</text>
-  <text x="465" y="78" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">43.8%</text>
+  <text x="465" y="78" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">40.8%</text>
   <rect x="30" y="86" width="420" height="7" rx="3.5" fill="#1C2530" />
-  <rect x="30" y="86" width="184.0" height="7" rx="3.5" fill="#3178c6" />
+  <rect x="30" y="86" width="171.4" height="7" rx="3.5" fill="#3178c6" />
   
   <text x="30" y="112" font-family="RobotoEmbed" font-weight="400" font-size="14" fill="#C9D1D9">JavaScript</text>
-  <text x="465" y="112" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">31.5%</text>
+  <text x="465" y="112" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">34.5%</text>
   <rect x="30" y="120" width="420" height="7" rx="3.5" fill="#1C2530" />
-  <rect x="30" y="120" width="132.3" height="7" rx="3.5" fill="#f1e05a" />
+  <rect x="30" y="120" width="144.9" height="7" rx="3.5" fill="#f1e05a" />
   
   <text x="30" y="146" font-family="RobotoEmbed" font-weight="400" font-size="14" fill="#C9D1D9">SCSS</text>
-  <text x="465" y="146" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">21.1%</text>
+  <text x="465" y="146" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">19.7%</text>
   <rect x="30" y="154" width="420" height="7" rx="3.5" fill="#1C2530" />
-  <rect x="30" y="154" width="88.6" height="7" rx="3.5" fill="#c6538c" />
+  <rect x="30" y="154" width="82.7" height="7" rx="3.5" fill="#c6538c" />
   
   <text x="30" y="180" font-family="RobotoEmbed" font-weight="400" font-size="14" fill="#C9D1D9">CSS</text>
-  <text x="465" y="180" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">2.0%</text>
+  <text x="465" y="180" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">3.4%</text>
   <rect x="30" y="188" width="420" height="7" rx="3.5" fill="#1C2530" />
-  <rect x="30" y="188" width="8.4" height="7" rx="3.5" fill="#663399" />
+  <rect x="30" y="188" width="14.3" height="7" rx="3.5" fill="#663399" />
   
   <text x="30" y="214" font-family="RobotoEmbed" font-weight="400" font-size="14" fill="#C9D1D9">HTML</text>
   <text x="465" y="214" text-anchor="end" font-family="RobotoEmbed" font-weight="700" font-size="14" fill="#6B7280">1.6%</text>
