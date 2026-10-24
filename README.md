@@ -2,7 +2,15 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Cauã Andrade Condé, Backend Developer" />
 
-<img src="./assets/impact-strip.svg" width="100%" alt="317 commits, 20 repositórios, 11 pull requests mergeados, 6 stars" />
+<br/>
+
+<a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals%20%28AI--900%29-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117" height="34" alt="Microsoft Certified: Azure AI Fundamentals (AI-900)" />
+</a>
+
+<br/><br/>
+
+<img src="./assets/impact-strip.svg" width="100%" alt="205 commits, 15 repositórios, 3 pull requests mergeados, 6 stars" />
 
 <br/>
 
@@ -20,7 +28,7 @@ Gosto de sistemas que não quebram sob uso real: validação de entrada, tratame
 
 ## Experiência atual
 
-**Backend & Automação**, empresa focada em captação de anúncios e dados
+**Estagiário em Desenvolvimento de Software**, Arquivo da Propaganda (desde jun. 2026), empresa focada em captação de anúncios e dados
 
 - Automação de coleta de dados com Python + Selenium (web scraping em produção)
 - Persistência e modelagem de dados em PostgreSQL
@@ -45,8 +53,8 @@ Gosto de sistemas que não quebram sob uso real: validação de entrada, tratame
   <img src="https://img.shields.io/badge/-Windows%20Server-0D1117?style=flat-square&logo=windows&logoColor=3B82F6" alt="Windows Server" />
 </p>
 
-**Cloud:** AWS (foco atual de estudo) e Microsoft Azure (certificação AI-900)
-**Estudando atualmente:** TypeScript, React
+- **Cloud:** AWS (EC2 e RDS, foco atual de estudo) e Microsoft Azure (certificação AI-900)
+- **Estudando atualmente:** TypeScript, React
 
 ### Princípios de engenharia
 
@@ -54,15 +62,15 @@ Validação de entrada · Tratamento de erro consistente · Segurança em autent
 
 ## Certificações
 
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/)
 
 ## Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**backend-barbershop**](https://github.com/cauandrade123/backend-barbershop) | API de agendamento com autenticação JWT, validação centralizada e locks de concorrência (`GET_LOCK`) para evitar conflitos de horário | Node.js, Express, MySQL |
-| [**doctors-health-api**](https://github.com/cauandrade123/doctors-health-api) | Sistema de gerenciamento de pacientes com foco em segurança e performance | Node.js |
-| **backend_ecommerce** *(privado, em desenvolvimento)* | Backend de e-commerce | Node.js, TypeScript |
+| [**backend-barbershop**](https://github.com/cauandrade123/backend-barbershop) | API de agendamento com autenticação JWT, validação centralizada, locks de concorrência (`GET_LOCK`) para evitar conflitos de horário e integração com gateway de pagamento | Node.js, Express, MySQL, Docker, AWS |
+| [**doctors-health-api**](https://github.com/cauandrade123/doctors-health-api) | Sistema de gerenciamento de pacientes com foco em segurança e performance (projeto de TCC, em equipe) | Node.js |
+| [**doctors-health-frontend**](https://github.com/cauandrade123/doctors-health-frontend) | Front-end da plataforma de gerenciamento de pacientes (projeto de TCC, em equipe) | React, JavaScript, SCSS |
 | [**caua-andrade-portfolio**](https://github.com/cauandrade123/caua-andrade-portfolio) | Portfólio pessoal front-end | React, TypeScript |
 
 ## Estatísticas do GitHub
@@ -76,6 +84,8 @@ Validação de entrada · Tratamento de erro consistente · Segurança em autent
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=cauandrade123&background=0D1117&border=1C2530&stroke=1C2530&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=6B7280&hide_border=false" alt="GitHub Streak" />
+
+<sub>Contagens de repositórios públicos (commits na branch padrão, incluindo projetos em equipe). Atividade em repositórios privados não entra nos números.</sub>
 
 ## About me (English)
 
