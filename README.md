@@ -87,7 +87,7 @@ Validação de entrada · Tratamento de erro consistente · Segurança em autent
 
 <img src="https://streak-stats.demolab.com/?user=cauandrade123&background=0D1117&border=1C2530&stroke=1C2530&ring=3B82F6&fire=3B82F6&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=6B7280&hide_border=false" alt="GitHub Streak" />
 
-<sub>Total de commits: contagem de contribuições de 2024 a 2026 (somadas) do perfil do GitHub, incluindo projetos em equipe. Demais números: repositórios públicos.</sub>
+<sub>Total de commits: atualizado automaticamente pela API do GitHub, incluindo projetos em equipe. Demais números: repositórios públicos.</sub>
 
 ## About me (English)
 

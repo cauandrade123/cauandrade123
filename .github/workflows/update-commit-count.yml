@@ -1,0 +1,41 @@
+name: Atualizar contador de commits
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-commit-count
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Calcular e gravar o total
+        run: node scripts/update-commit-count.mjs
+        env:
+          # STATS_TOKEN é opcional: sem ele, conta só o que é visível publicamente.
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commitar se mudou
+        run: |
+          if git diff --quiet; then
+            echo "Sem mudanças"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/impact-strip.svg assets/stats.svg README.md
+          git commit -m "chore: atualiza contador de commits"
+          git push
