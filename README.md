@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="./assets/impact-strip.svg" width="100%" alt="240 commits, 15 repositórios, 3 pull requests mergeados, 6 stars" />
+<img src="./assets/impact-strip.svg" width="100%" alt="241 commits, 15 repositórios, 3 pull requests mergeados, 6 stars" />
 
 <br/>
 
